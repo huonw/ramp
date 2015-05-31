@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["shl","Performs a bit-shift of the limbs in {xp, xs}, left by `cnt` bits storing the result in {rp, rs}. The top-most shifted bits are returned."],["shr","Performs a bit-shift of the limbs in {xp, xs}, right by `cnt` bits storing the result in {rp, rs}. The bottom-most shifted bits are returned."]]});

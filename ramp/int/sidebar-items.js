@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Int","An arbitrary-precision signed integer."],["ParseIntError",""]]});
